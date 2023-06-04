@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check_connection">verificar conexão</string>
+    <string name="title_try_connection">Será que tem conexão?</string>
+    <string name="title_connected">Conectado a internet!</string>
+    <string name="title_disconnected">Desconectado da internet!</string>
+</resources>
